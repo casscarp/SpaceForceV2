@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Joystick Up
   m_EditorClassIdentifier: 
   taskName: Joystick
-  taskDescription: Joystick to the Up
+  taskDescription: Flip Joystick Up
   taskCompleteCondition: joystickUp
